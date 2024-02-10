@@ -1,10 +1,18 @@
-##  About Me:
+<h2 align="center">
+        <samp> Hi There!, I am
+                <b><a target="_blank" href="">Tatiana</a></b>
+        </samp>
+</h2>
 
-🌱 Software Engineering Student at UPC. </br>
-💻 My primary interests lie in software development and cibersecurity.</br>
-📚 I'm constantly learning and exploring new technologies to expand my skill set. </br>
+<p > 
+  <samp>
+     🌱 Software Engineering Student at UPC. </br>
+  💻 My primary interests lie in software development and cibersecurity.</br>
+  📚 I'm constantly learning and exploring new technologies to expand my skill set. </br>
+  </samp>
+</p>
 
-## Technologies:
+## Use To Code:
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,11 +24,16 @@
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TMedalith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMedalith&theme=dracula&hide_border=false&order=3" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TMedalith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmedalith&theme=radical&border=7F3FBF&background=0D1117" alt="TMedalith's GitHub streak"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="TMedalith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tmedalith&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="TMedalith's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
