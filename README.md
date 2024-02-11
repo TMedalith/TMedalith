@@ -22,7 +22,7 @@
         </samp>
 </h2>
 
-<div align="center">
+<div>
   
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
@@ -33,14 +33,14 @@
 
 
 
-<p align="center">
+<!---<p align="center">
   <a href="https://github.com/tmedalith">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmedalith&theme=radical&border=7F3FBF&background=0D1117" alt="TMedalith's GitHub streak" heigth="10px"/>
   </a>
-</p>
-<a> 
-    <a href="https://github.com/tmedalith"><img alt="TMedalith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmedalith&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>  
-  <a href="https://github.com/tmedalith"><img alt="TMedalith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>--->
+<a align="center"> 
+  <!----  <a href="https://github.com/tmedalith"><img alt="TMedalith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmedalith&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>  ---->
+  <a href="https://github.com/tmedalith"><img alt="TMedalith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
   <br/>
 </a>
 
