@@ -40,7 +40,7 @@
 </p>--->
 <a align="center"> 
   <!----  <a href="https://github.com/tmedalith"><img alt="TMedalith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmedalith&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>  ---->
-  <a href="https://github.com/tmedalith"><img alt="TMedalith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+  <a href="https://github.com/tmedalith"><img alt="TMedalith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/> </a>
   <br/>
 </a>
 
