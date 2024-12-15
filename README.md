@@ -23,19 +23,21 @@
 </h2>
 
 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=6&count_private=true&include_all_commits=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+        alt="TMedalith's Top Languages" width="400px" heigth="20px"/>
+ </p>       
+
 
 <p align="center">
-  <a href="https://github.com/tmedalith">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmedalith&theme=radical&border=7F3FBF&background=0D1117" alt="TMedalith's GitHub streak" heigth="10px"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=TMedalith&theme=radical&show_icons=true&border=7F3FBF&count_private=true&background=0D1117" 
+        alt="TMedalith's GitHub stats" width="400px" heigth="20px"/>
 </p>
-<a align="center"> 
-<!---<a href="https://github.com/tmedalith"><img alt="TMedalith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmedalith&show_icons=true&&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> --->
- <a href="https://github.com/tmedalith">
-  <img alt="TMedalith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=6&count_private=true&include_all_commits=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</a>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmedalith&theme=radical&border=7F3FBF&background=0D1117" 
+        alt="TMedalith's GitHub streak" width="400px"  heigth="20px"/>
+</p>
 
 
-
-</a>
 
