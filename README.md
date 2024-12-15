@@ -29,15 +29,3 @@
  </p>       
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TMedalith&theme=radical&show_icons=true&border=7F3FBF&count_private=true&background=0D1117" 
-        alt="TMedalith's GitHub stats" width="400px" heigth="20px"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmedalith&theme=radical&border=7F3FBF&background=0D1117" 
-        alt="TMedalith's GitHub streak" width="400px"  heigth="20px"/>
-</p>
-
-
-
