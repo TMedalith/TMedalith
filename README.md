@@ -1,10 +1,7 @@
 
 <h2 align="center">
-        <samp> Hi There!, I am
-    <b><a href="https://tmint.vercel.app/" target="_blank"><u>Tatiana</u></a></b>
-</samp>
-
-      
+     
+Hi There!, I am [**Tatiana Medalith**](https://tmint.vercel.app/)   
 
 </h2>
 
