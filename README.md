@@ -3,9 +3,7 @@
         <samp> Hi There!, I am
                 <b><a href="https://tmint.vercel.app/" target="_blank" href="">Tatiana</a></b>
         </samp>
-        <a href="https://www.linkedin.com/in/tatiana-paucar-de-la-cruz" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20"/></a>
-        <a href="mailto:tatiana.paucard@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20"/></a>
-
+      
 
 </h2>
 
