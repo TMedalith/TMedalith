@@ -8,7 +8,7 @@ Hi There!, I am [**Tatiana Medalith**](https://tmint.vercel.app/)
 <p > 
   <samp>
      🌱 Software Engineering Student at UPC. </br>
-  💻 My primary interests lie in software development and cibersecurity.</br>
+  💻 My primary interests lie in software development and Machine learning.</br>
   📚 I'm constantly learning and exploring new technologies to expand my skill set. </br>
   </samp>
 </p>
