@@ -9,7 +9,6 @@ Hi There!, I am [**Tatiana Medalith**](https://tmint.vercel.app/)
   <samp>
      🌱 Software Engineering Student at UPC. </br>
      💻 My primary interests lie in software development, Artificial Intelligence (AI), and Machine Learning.</br>
-     🌩️ Currently learning AWS to expand my cloud computing skills.</br>
      📚 I'm constantly learning and exploring new technologies to expand my skill set and stay at the forefront of innovation.</br>
   </samp>
 </p>
