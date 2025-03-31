@@ -1,7 +1,7 @@
 
 <h2 align="center">
      
-Hi There!, I am [**Tatiana Medalith**](https://tmint.vercel.app/)   
+Hi There!, I am [**Tatiana Medalith**] 
 
 </h2>
 
