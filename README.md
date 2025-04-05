@@ -22,7 +22,7 @@ Hi There!, I am [**Tatiana Medalith**]
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=5&count_private=true&include_all_commits=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmedalith&langs_count=4&count_private=true&include_all_commits=true&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
         alt="TMedalith's Top Languages" width="400px" heigth="20px"/>
  </p>       
 
