@@ -1,7 +1,9 @@
 
 <h2 align="center">
      
-Hi There!, I am [**Tatiana Medalith**] 
+Hi There!, I am [**Tatiana Medalith**]
+
+[![committers.top badge](https://user-badge.committers.top/peru/TMedalith.svg)](https://user-badge.committers.top/peru/TMedalith)
 
 </h2>
 
