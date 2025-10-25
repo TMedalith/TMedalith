@@ -1,4 +1,4 @@
-# TMedalith — Full-Stack & Aspiring AI Engineer  
+## TMedalith — Full-Stack
 **Software Engineering Student @ UPC**  
 
 Building sleek frontends and robust backends,  
