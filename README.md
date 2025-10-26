@@ -1,5 +1,4 @@
 ## TMedalith — Full-Stack
-**Software Engineering Student @ UPC**  
 
 Building applications,  
 passionate about Artificial Intelligence,  
