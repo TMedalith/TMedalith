@@ -1,16 +1,13 @@
-## TMedalith — Full-Stack
+## TMedalith
 
-Building applications,  
-passionate about Artificial Intelligence,  
-currently exploring Generative AI and AI agents.  
+🛠 Backend dev who loves building things  
+🤖 AI enthusiast playing with LLMs
 
 ---
 
 ### Tech Stack
-`Python` · `FastAPI` · `Spring Boot` · `Node.js` · `React` · `Docker` · `AWS` · `LangChain`  
+`Python` · `FastAPI` · `Java` · `Spring Boot` · `Docker` · `AWS` · `LangChain`  
 
 ---
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TMedalith&layout=compact&hide_border=true&theme=tokyonight)  
-
-_status: creating projects and diving deeper into AI._
