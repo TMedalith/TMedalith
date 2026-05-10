@@ -1,7 +1,7 @@
 ## TMedalith
 
-🛠 Backend dev who loves building things  
-🤖 AI enthusiast playing with LLMs
+Backend dev who loves building things  
+AI enthusiast playing with LLMs
 
 ---
 
