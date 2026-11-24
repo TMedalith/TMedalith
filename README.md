@@ -5,6 +5,6 @@
   <samp>
     <b>building ai products <a href="https://tmint.vercel.app">@tmint</a></b>
     <br>
-    top 10 tcs codificadas · top 45 global nasa space apps · 1st place rimac
+    top 10 tcs codificadas · top 45 global nasa space apps
   </samp>
 </div>
