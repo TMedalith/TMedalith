@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="./gif.gif" width="240" alt="focus">
+ <img width="200" alt="bd0b97d7cbe6be892aea9da99d4a1e60" src="https://github.com/user-attachments/assets/45096fd2-f23b-4895-9662-011ec7f89b6c" />
   <br><br>
   <samp>
     <b>building ai products <a href="https://vercel.app">@tmint</a></b>
