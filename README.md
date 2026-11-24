@@ -1,8 +1,9 @@
 <div align="center">
-
-<img src="https://64.media.tumblr.com/c0087434186bcba51a103dd3c316ed63/tumblr_p5ap3sNjhn1v05zj7o1_540.gifv" width="300" alt="Daria at her computer">
-
-<samp><i>tmint: under construction.</i></samp>
-
-
+  <img src="./gif.gif" width="240" alt="focus">
+  <br><br>
+  <samp>
+    <b>building ai products <a href="https://vercel.app">@tmint</a></b>
+    <br>
+    top 10 tcs codificadas · top 45 global nasa space apps · 1st place rimac
+  </samp>
 </div>
